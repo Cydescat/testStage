@@ -1,0 +1,26 @@
+.btn
+{
+    width: 100%;
+}
+
+button.btn-top
+{
+    -webkit-appearance: none !important;
+    background-color: unset !important;
+    border: none !important;
+}
+
+.title
+{
+    margin-top: 0 !important;
+}
+
+.cadre
+{
+    margin: 25px auto;
+    padding: 25px;
+    background: rgba(255,255,255,0.9);
+    border-radius: 5px;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.6);
+    z-index: 0;
+}
